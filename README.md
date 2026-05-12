@@ -29,7 +29,7 @@ The analysis and simulations demonstrated a clear relationship between system pa
 
 1.  **More IRS Elements = Better Performance:** Increasing the number of reflecting elements on the IRS significantly decreases the outage probability, allowing for more reliable power transfer.
 
-    ![IRS Elements vs Outage](<PATH_TO_YOUR_IMAGE>/irs_vs_outage.png)
+    ![IRS Elements vs Outage](images/IRS_vs_Pout.png)
 
 2.  **Higher Elevation Angle = Better Performance:** As the UAV's elevation angle increases, it moves into a more favorable Line-of-Sight (LoS) position, drastically improving energy transfer efficiency up to a certain point.
 
@@ -39,8 +39,8 @@ The analysis and simulations demonstrated a clear relationship between system pa
 
 ## 📂 Repository Contents
 
-*   `OMKAR_JADHAV_MTP_II_204102021 (1) (1).pdf`: The complete M.Tech thesis document.
-*   `FINAL_POSTER_MTP_PHASE_1 (1).pdf`: A visual summary and poster of the project.
+*   `OMKAR_JADHAV_MTech_Project.pdf`: The complete M.Tech thesis document.
+*   `FINAL_POSTER.pdf`: A visual summary and poster of the project.
 
 ---
 
