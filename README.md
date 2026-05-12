@@ -33,7 +33,7 @@ The analysis and simulations demonstrated a clear relationship between system pa
 
 2.  **Higher Elevation Angle = Better Performance:** As the UAV's elevation angle increases, it moves into a more favorable Line-of-Sight (LoS) position, drastically improving energy transfer efficiency up to a certain point.
 
-    ![Elevation vs Outage](<PATH_TO_YOUR_IMAGE>/elevation_vs_outage.png)
+    ![Elevation vs Outage](images/Elevation_angle_vs_Pout.png)
 
 ---
 
