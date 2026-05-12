@@ -18,7 +18,7 @@ The primary challenge with UAVs (drones) is their limited flight time due to bat
 
 The system consists of a Ground Base Station (BS), a UAV, and a planar IRS. The IRS intelligently reflects and focuses radio frequency (RF) signals from the BS toward the UAV, enabling it to harvest energy even in Non-Line-of-Sight (NLoS) conditions.
 
-![System Model](<PATH_TO_YOUR_IMAGE>/system_model.png)
+![System Model](images/system_image.png)
 > *To get the image path: upload the image from your poster to your repo, click on it, right-click the image and select "Copy Image Address".*
 
 ---
